@@ -1,0 +1,6 @@
+id,sex,age,isnevous,ispanic,HR,LB,disg,HA,isinsomnia,ishypocho,isirritab,isfever,neurasthenic
+14,male,young,nervous,not panic,increase,not pant,not nausea,not continue,insomnia,hypocho,irritab,fever,yes
+15,male,adult,nervous,panic,remain,pant,not nausea,continue,not insomnia,not hypocho,not irritab,fever,no
+16,female,young,nervous,panic,increase,not pant,nausea,not continue,insomnia,hypocho,irritab,fever,yes
+17,female,adult,relax,not panic,increase,not pant,not nausea,not continue,not insomnia,not hypocho,not irritab,not fever,no
+18,male,young,nervous,not panic,increase,pant,nausea,not continue,insomnia,not hypocho,not irritab,not fever,yes

@@ -1,0 +1,14 @@
+id,sex,age,isnevous,ispanic,HR,LB,disg,HA,isinsomnia,ishypocho,isirritab,isfever,neurasthenic
+1,a,b,b,b,a,a,b,b,b,a,b,a,no
+2,b,a,a,a,b,b,b,a,a,a,a,a,yes
+3,a,b,b,a,a,b,b,a,b,a,a,b,no
+4,a,a,b,b,a,a,a,a,b,a,a,a,no
+5,b,b,b,a,b,a,b,a,b,b,b,b,no
+6,a,b,b,a,a,a,b,b,b,a,b,b,no
+7,b,a,a,b,a,a,a,b,b,a,b,a,yes
+8,b,b,b,b,a,a,a,b,b,a,b,a,no
+9,a,a,b,a,b,a,b,a,a,b,b,b,yes
+10,a,a,a,a,a,a,b,a,a,b,a,a,yes
+11,b,a,a,b,b,b,b,b,a,a,a,a,yes
+12,a,b,a,b,b,b,a,a,b,a,a,a,no
+13,a,b,a,a,a,a,a,a,a,a,a,b,yes

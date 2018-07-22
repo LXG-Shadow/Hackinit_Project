@@ -1,0 +1,11 @@
+{
+    "sessions": {
+        "ruffd/lan/3044a1001116": {
+            "name": "lolceshi",
+            "sn": "R0102187",
+            "mac": "30:44:a1:00:11:16",
+            "address": "172.20.10.3"
+        }
+    },
+    "active": "ruffd/lan/3044a1001116"
+}

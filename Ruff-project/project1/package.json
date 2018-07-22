@@ -1,0 +1,15 @@
+{
+    "name": "prroject1",
+    "version": "0.1.0",
+    "description": "a test",
+    "author": "LXG_Shadow",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "lcd1602-pcf8574a-hd44780": "^0.2.7",
+            "button-gpio": "^2.0.9",
+            "ky-016": "^2.0.5"
+        },
+        "version": 1
+    }
+}

@@ -1,0 +1,14 @@
+id,sex,age,isnevous,ispanic,HR,LB,disg,HA,isinsomnia,ishypocho,isirritab,isfever,neurasthenic
+1,male,adult,relax,not panic,increase,pant,not nausea,not continue,not insomnia,hypocho,not irritab,fever,no
+2,female,young,nervous,panic,remain,not pant,not nausea,continue,insomnia,hypocho,irritab,fever,yes
+3,male,adult,relax,panic,increase,not pant,not nausea,continue,not insomnia,hypocho,irritab,not fever,no
+4,male,young,relax,not panic,increase,pant,nausea,continue,not insomnia,hypocho,irritab,fever,no
+5,female,adult,relax,panic,remain,pant,not nausea,continue,not insomnia,not hypocho,not irritab,not fever,no
+6,male,adult,relax,panic,increase,pant,not nausea,not continue,not insomnia,hypocho,not irritab,not fever,no
+7,female,young,nervous,not panic,increase,pant,nausea,not continue,not insomnia,hypocho,not irritab,fever,yes
+8,female,adult,relax,not panic,increase,pant,nausea,not continue,not insomnia,hypocho,not irritab,fever,no
+9,male,young,relax,panic,remain,pant,not nausea,continue,insomnia,not hypocho,not irritab,not fever,yes
+10,male,young,nervous,panic,increase,pant,not nausea,continue,insomnia,not hypocho,irritab,fever,yes
+11,female,young,nervous,not panic,remain,not pant,not nausea,not continue,insomnia,hypocho,irritab,fever,yes
+12,male,adult,nervous,not panic,remain,not pant,nausea,continue,not insomnia,hypocho,irritab,fever,no
+13,male,adult,nervous,panic,increase,pant,nausea,continue,insomnia,hypocho,irritab,not fever,yes
